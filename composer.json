@@ -1,0 +1,22 @@
+{
+  "name": "code711/sitemapcrawler",
+  "description": "Crawls sitemaps and triggers search index",
+  "type": "typo3-cms-extension",
+  "authors": [
+    {
+      "name": "Patricia Ottmar",
+      "role": "Developer",
+      "email": "p.ottmar@12bis3.de"
+    }
+  ],
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "sitemapcrawler"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Code711\\Sitemapcrawler\\": "Classes/"
+    }
+  }
+}

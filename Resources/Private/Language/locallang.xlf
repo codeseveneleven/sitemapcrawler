@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-09-12T13:49:12Z">
+		<header>
+			<generator>LFEditor</generator>
+		</header>
+		<body>
+			<trans-unit id="tx_sitemapcrawler_domain_model_log">
+				<source>Crawler: Log</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemapcrawler_domain_model_log.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemapcrawler_domain_model_log.lastrun">
+				<source>Last run</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemapcrawler_domain_model_log.mode">
+				<source>Mode</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemapcrawler_domain_model_log.mode.0">
+				<source>Crawl</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemapcrawler_domain_model_log.mode.1">
+				<source>Index</source>
+			</trans-unit>
+			<trans-unit id="tx_sitemapcrawler_domain_model_log.count">
+				<source>Count</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
